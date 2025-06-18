@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="/home/guillem/Descargas/Internship/Genomes/Rhynchospora_pubera/ncbi_dataset/ncbi_dataset/data/GCA_028095005.1/GCA_028095005.1_MPIPZ_rhyPub2m_2.0_genomic.fna" locus="CM051459.1:0-375421704" version="8">
+    <Resources>
+        <Resource path="/home/guillem/Descargas/Internship/Genomes/Rhynchospora_pubera/First_try/20_Kbp/New_Formula_Results/BED_FILES/IGV/rp_igv_quartet.bed" type="bed"/>
+        <Resource path="/home/guillem/Descargas/Internship/Genomes/Rhynchospora_pubera/First_try/20_Kbp/New_Formula_Results/BED_FILES/IGV/rp_igv_reference.bed" type="bed"/>
+    </Resources>
+    <Panel height="787" name="FeaturePanel" width="1819">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="rp_igv_reference.bed" clazz="org.broad.igv.track.FeatureTrack" color="0,0,0" colorScale="ContinuousColorScale;0.0;6.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="/home/guillem/Descargas/Internship/Genomes/Rhynchospora_pubera/First_try/20_Kbp/New_Formula_Results/BED_FILES/IGV/rp_igv_reference.bed" name="rp_igv_reference.bed" visible="true"/>
+        <Track attributeKey="rp_igv_quartet.bed" clazz="org.broad.igv.track.FeatureTrack" color="0,154,205" colorScale="ContinuousColorScale;0.0;4.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="/home/guillem/Descargas/Internship/Genomes/Rhynchospora_pubera/First_try/20_Kbp/New_Formula_Results/BED_FILES/IGV/rp_igv_quartet.bed" name="rp_igv_quartet.bed" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.007518796992481203"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>

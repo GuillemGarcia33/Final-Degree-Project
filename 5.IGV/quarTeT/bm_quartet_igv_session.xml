@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="/home/guillem/Descargas/Internship/Genomes/B.mori/bmori/Bomo_genome_assembly.fa" locus="All" version="8">
+    <Resources>
+        <Resource path="/home/guillem/Descargas/Internship/Genomes/B.mori/bmori/Results/BED_FILES/IGV/bm_igv_reference.bed" type="bed"/>
+        <Resource path="/home/guillem/Descargas/Internship/Genomes/B.mori/bmori/Results/BED_FILES/IGV/bm_igv_quartet.bed" type="bed"/>
+    </Resources>
+    <Panel height="787" name="FeaturePanel" width="1819">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="bm_igv_reference.bed" clazz="org.broad.igv.track.FeatureTrack" color="0,0,0" colorScale="ContinuousColorScale;0.0;11.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" height="383" id="/home/guillem/Descargas/Internship/Genomes/B.mori/bmori/Results/BED_FILES/IGV/bm_igv_reference.bed" name="bm_igv_reference.bed" visible="true"/>
+        <Track attributeKey="bm_igv_quartet.bed" clazz="org.broad.igv.track.FeatureTrack" color="34,139,34" colorScale="ContinuousColorScale;0.0;3.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" height="384" id="/home/guillem/Descargas/Internship/Genomes/B.mori/bmori/Results/BED_FILES/IGV/bm_igv_quartet.bed" name="bm_igv_quartet.bed" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.007518796992481203"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
